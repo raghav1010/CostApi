@@ -94,14 +94,11 @@ The response is the total order value
 
 ## Outputs:
 
-* Case 1:
-    ![alt text Case 1]
+*   ![Case 1]
     (C:\Users\RAGHAV\Desktop\case_1.png "Case 1")
     
-* Case 2:
-    ![alt text Case 2]
+*   ![Case 2]
     (C:\Users\RAGHAV\Desktop\case_2.png "Case 2")
 
-* Case 3:
-    ![alt text Case 3]
+*   ![Case 3]
     (C:\Users\RAGHAV\Desktop\Output3.png "Case 3")
