@@ -95,10 +95,10 @@ The response is the total order value
 ## Outputs:
 
 *   ![Case 1]
-    (C:\Users\RAGHAV\Desktop\case_1.png "Case 1")
+    (https://github.com/raghav1010/Cost_Api/blob/main/case_1.png  "Case 1")
     
 *   ![Case 2]
-    (C:\Users\RAGHAV\Desktop\case_2.png "Case 2")
+    (https://github.com/raghav1010/Cost_Api/blob/main/case_2.png "Case 2")
 
 *   ![Case 3]
     (https://github.com/raghav1010/Cost_Api/blob/main/Output3.png "Case 3")
