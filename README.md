@@ -101,4 +101,4 @@ The response is the total order value
     (C:\Users\RAGHAV\Desktop\case_2.png "Case 2")
 
 *   ![Case 3]
-    (C:\Users\RAGHAV\Desktop\Output3.png "Case 3")
+    (https://github.com/raghav1010/Cost_Api/blob/main/Output3.png "Case 3")
